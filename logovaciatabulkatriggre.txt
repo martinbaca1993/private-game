@@ -16,6 +16,7 @@ CREATE TABLE log_osoba (
 
 create or replace trigger up_log_osoba
 before update
+welômhwemhwelô
 hkwenhkweknhwe
 on osoba
 referencing old as stary
