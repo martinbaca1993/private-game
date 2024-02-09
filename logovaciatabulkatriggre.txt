@@ -17,7 +17,8 @@ CREATE TABLE log_osoba (
 create or replace trigger up_log_osoba
 before update
 ôknwehwenlhwe
-nhklwehknwenklhweklh
+nhklwehknwenk
+hknwelhlhweklh
 gômwehlwlmhkew
 hwjhekwhew
 welômhwemhwelô
