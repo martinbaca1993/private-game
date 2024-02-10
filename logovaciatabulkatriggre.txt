@@ -12,7 +12,7 @@ CREATE TABLE log_osoba (
           
 );
 /
-
+h§wlhôwemhlweml
 
 create or replace trigger up_log_osoba
 before update
