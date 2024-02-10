@@ -1,5 +1,6 @@
 gkwqnhklenkwen
 hewlmhôwemh
+lômehwmhwôlmehlmôwe
 knhwekhkwenhlwe
 CREATE TABLE log_osoba (
   	  user_name varchar2(20),
